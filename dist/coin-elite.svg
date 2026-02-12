@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" role="img" aria-label="Coin Elite logo">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#fff2c6"/>
+      <stop offset="45%" stop-color="#ffd166"/>
+      <stop offset="100%" stop-color="#b87400"/>
+    </radialGradient>
+  </defs>
+  <circle cx="70" cy="70" r="66" fill="#0b0700" />
+  <circle cx="70" cy="70" r="60" fill="url(#glow)" stroke="#f2b441" stroke-width="4"/>
+  <circle cx="70" cy="70" r="40" fill="none" stroke="#5e2d00" stroke-width="4" stroke-dasharray="6 8"/>
+  <text x="50%" y="55%" text-anchor="middle" font-family="Space Grotesk, Arial, sans-serif"
+        font-size="32" font-weight="600" letter-spacing="0.2em" fill="#3b2100">
+    CE
+  </text>
+  <text x="50%" y="72%" text-anchor="middle" font-family="Space Grotesk, Arial, sans-serif"
+        font-size="12" letter-spacing="0.4em" fill="#3b2100">
+    COIN ELITE
+  </text>
+</svg>
